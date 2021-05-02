@@ -10,7 +10,14 @@
 
 ## The program in motion
 
-Over many generations these agents learn to follow the path to reach their goal without falling off by using raycasting as a vision source
+Over many generations these agents below learn to follow the path to reach their goal without falling off by using raycasting as a vision source
 
 ![Catwalk (2)](https://user-images.githubusercontent.com/46041406/116799162-ae543c00-aac4-11eb-8c28-83fc4e19d4d0.gif)
+
+
+Over many generations the agents below learn how to play the game red-light-green-light by constantly feeding the color data obtained from their attached cameras into their neural networks
+
+![redlight](https://user-images.githubusercontent.com/46041406/116799268-ea3bd100-aac5-11eb-9aec-dc89d9137bb1.gif)
+
+
 
